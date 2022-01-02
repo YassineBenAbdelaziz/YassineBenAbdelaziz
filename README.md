@@ -18,9 +18,15 @@ Feel free to invite me to any related  IoT , AI and Robotics topics/events.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  </p>
  <h3 align="left">Currently Learning :</h3>
 <p align="left"> 
+  <ul>
+  <li>ROS</li>
+  <li>Yocto</li>
+    </ul>
+  <!--
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>   
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </p>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> -->
+</p>
 
   
   
