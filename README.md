@@ -1,16 +1,15 @@
-### Welcome to My Coding Palace :triangular_flag_on_post:
-## A Little about me
-I am Yassine Ben Abdelaziz, a software engineering student with a passion for developing innovative solutions.<br>
-Currently seeking part-time work opportunities to gain experience and further develop my skills. Open to various roles and responsibilities and eager to take on new challenges.<br>
-Feel free to invite me to open source projects.
-## Skills
+# 🚩 Welcome to My Coding Palace! 🏰
 
+Hey there! I am **Yassine Ben Abdelaziz**, a software engineering student with a passion for developing innovative solutions.
 
+Currently seeking an **end of studies internship** where I can apply my skills, gain hands-on experience, and collaborate with a team of talented developers.
 
+If you're looking for a driven and curious software engineering intern, feel free to get in touch!
 
+## 🛠️ Skills
 
+### 🔧 Top Languages
 
-<h3 align="left">Top Languages :</h3>
 <p align="left">  
   <!--
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -23,32 +22,44 @@ Feel free to invite me to open source projects.
   
 </p>
 
- 
-## How to reach me
-  💬 email : yassine.benabdelaziz@enicar.ucar.tn
-   
-  
-  
-  
+### 📦 Frameworks & Libraries
+
+<p align="left">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+</p>
+
+## 📫 How to reach me
+
+I'm always open to opportunities, collaborations, and interesting conversations. Feel free to reach out!
+
+💬 email : yassine.benabdelaziz@enicar.ucar.tn
+
 <!--
 
 
 
  <h3 align="left">Currently Learning :</h3>
-<p align="left"> 
+<p align="left">
   <ul>
   <li>ROS</li>
   <li>Yocto</li>
     </ul>
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>   
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 </p>
 
 ## Gihub Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YassineBenAbdelaziz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+
 
 **YassineBenAbdelaziz/YassineBenAbdelaziz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
