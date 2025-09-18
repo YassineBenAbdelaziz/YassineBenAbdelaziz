@@ -1,10 +1,10 @@
 # 🚩 Welcome to My Coding Palace! 🏰
 
-Hey there! I am **Yassine Ben Abdelaziz**, a software engineering with a passion for developing innovative solutions.
+Hey there! I am **Yassine Ben Abdelaziz**, a software engineer with a passion for developing innovative solutions.
 
 Open to various roles and responsibilities and eager to take on new challenges.
 
-If you're looking for a driven and curious software engineering, feel free to get in touch!
+If you're looking for a driven and curious software engineer, feel free to get in touch!
 
 ## 🛠️ Skills
 
